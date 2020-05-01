@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="AzureApp">60537649dbe09010f55ef26b689619d9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Azure Deployment</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>chris</sys_created_by>
+        <sys_created_on>2020-05-01 19:18:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0537649dbe09010f55ef26b689619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure Deployment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AzureApp" source="x_488254_azureapp">4bd2b205dbe09010f55ef26b6896193e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AzureApp">4bd2b205dbe09010f55ef26b6896193e</sys_scope>
+        <sys_update_name>sys_app_module_e0537649dbe09010f55ef26b689619dd</sys_update_name>
+        <sys_updated_by>chris</sys_updated_by>
+        <sys_updated_on>2020-05-01 19:18:24</sys_updated_on>
+        <timeline_page/>
+        <title>Azure Deployment</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
